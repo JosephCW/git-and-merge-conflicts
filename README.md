@@ -2,10 +2,10 @@
 ## Using TortoiseGit, Merge Conflicts, Reverts
 ### Tortoise Git Example
 1. Go to the demo repo and clone the repot onto your machine. 
-![](https://raw.github.com/JosephCW/https-github.com-JosephCW-git-and-merge-conflicts/tree/master/resources/TG1.jpg)
-![](https://raw.github.com/JosephCW/https-github.com-JosephCW-git-and-merge-conflicts/blob/master/resources/TG2.jpg)
+![]()
+![](https://raw.github.com/JosephCW/https-github.com-JosephCW-git-and-merge-conflicts/tree/master/resources/TG2.png)
 2. Next you will create a branch. Right click on the folder the repos in and select "Create Branch". Name it Branch1 and then press ok.
-![](https://raw.github.com/JosephCW/https-github.com-JosephCW-git-and-merge-conflicts/blob/master/resources/TG3.jpg)
+![](https://raw.github.com/JosephCW/https-github.com-JosephCW-git-and-merge-conflicts/blob/master/resources/TG3.png)
 ![](https://raw.github.com/JosephCW/https-github.com-JosephCW-git-and-merge-conflicts/blob/master/resources/TG4.jpg)
 3. Next you will right click the folder again and select "Switch/Checkout...". Then you will select the drop down arrows and choose Branch1. Once you have done that select "OK".
 ![](https://raw.github.com/JosephCW/https-github.com-JosephCW-git-and-merge-conflicts/blob/master/resources/TG5.jpg)
