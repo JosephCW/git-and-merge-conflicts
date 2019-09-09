@@ -3,7 +3,7 @@
 ### Tortoise Git Example
 1. Go to the demo repo and clone the repot onto your machine. 
 ![]()
-![](https://raw.github.com/JosephCW/https-github.com-JosephCW-git-and-merge-conflicts/tree/master/resources/TG2.png)
+![](https://raw.github.com/JosephCW/https-github.com-JosephCW-git-and-merge-conflicts/master/resources/TG2.png)
 2. Next you will create a branch. Right click on the folder the repos in and select "Create Branch". Name it Branch1 and then press ok.
 ![](https://raw.github.com/JosephCW/https-github.com-JosephCW-git-and-merge-conflicts/blob/master/resources/TG3.png)
 ![](https://raw.github.com/JosephCW/https-github.com-JosephCW-git-and-merge-conflicts/blob/master/resources/TG4.jpg)
