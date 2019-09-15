@@ -32,11 +32,12 @@
 
 ## Git Bash Example
 
-1. Navigate to the demo repo and run the command 'git clone \<Repository Url>'
+1. Create a new repository on your github account and then clone the repo with 'git clone \<Repository Url>'
 ![](resources/GB1.png)
+2. Create a new text file and then add and commit the changes. Tortoise Git does both the staging of files and the committing in one step, but Git Bash does these two steps independently. Following standard unix style file paths one can stage a file to be committed using the 'git add \<Path / File Name>' command. After adding you can verify what was added using the 'git status' command. Now that the file changes are staged and ready to be committed, go ahead and commit it using the 'git commit -m "\<Message Here>"' command.
 2. Create a new branch with the command 'git branch \<New Branch Name>', then check out the new branch using the command 'git checkout \<New Branch Name>'. This can also be achieved in one step by using 'git checkout -b \<New Branch Name>'.
 ![](resources/GB5.png)
-3. Make some changes to the text.txt file and save. Tortoise Git does both the staging of files and the committing in one step, but Git Bash does these two steps independently. Following standard unix style file paths one can stage a file to be committed using the 'git add \<Path / File Name>' command. After adding you can verify what was added using the 'git status' command. Now that the file changes are staged and ready to be committed, go ahead and commit it using the 'git commit -m "\<Message Here>"' command.
+3. Make some changes to the text.txt file and then commit. (No need to push)
 ![](resources/GB4.png)
 4. At this point go ahead and switch back to the master branch by running 'git checkout master'. Make a change to the text.txt file and make another commit after staging the file.
 ![](resources/GB6.png)
