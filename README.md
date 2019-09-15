@@ -1,8 +1,6 @@
-# https-github.com-JosephCW-git-and-merge-conflicts
+# Using TortoiseGit, Merge Conflicts, Reverts
 
-## Using TortoiseGit, Merge Conflicts, Reverts
-
-### Tortoise Git Example
+## Tortoise Git Example
 
 1. Go to the demo repo and clone the repot onto your machine.
 ![](resources/TG1.png)
@@ -31,3 +29,15 @@
 11. To revert back to a different commit right click the folder again and select "Switch/Checkout.." Choose the "Commit" option and then select the three dots on the right. It should pull up a window simliar to the second image below. From here you can choose to revert back to any commit you wich. Select "Master" and then hit "OK". This will have reverted you back to the orignal file.
 ![](resources/TG14.png)
 ![](resources/TG15.png)
+
+## Git Bash Example
+
+![](resources/GB1.png)
+![](resources/GB2.png)
+![](resources/GB3.png)
+![](resources/GB4.png)
+![](resources/GB5.png)
+![](resources/GB6.png)
+![](resources/GB7.png)
+![](resources/GB8.png)
+![](resources/GB9.png)
