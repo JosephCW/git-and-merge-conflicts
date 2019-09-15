@@ -32,12 +32,17 @@
 
 ## Git Bash Example
 
+1. Navigate to the demo repo and run the command 'git clone \<Repository Url>'
 ![](resources/GB1.png)
-![](resources/GB2.png)
-![](resources/GB3.png)
-![](resources/GB4.png)
+2. Create a new branch with the command 'git branch \<New Branch Name>', then check out the new branch using the command 'git checkout \<New Branch Name>'. This can also be achieved in one step by using 'git checkout -b \<New Branch Name>'.
 ![](resources/GB5.png)
+3. Make some changes to the text.txt file and save. Tortoise Git does both the staging of files and the committing in one step, but Git Bash does these two steps independently. Following standard unix style file paths one can stage a file to be committed using the 'git add \<Path / File Name>' command. After adding you can verify what was added using the 'git status' command. Now that the file changes are staged and ready to be committed, go ahead and commit it using the 'git commit -m "\<Message Here>"' command.
+![](resources/GB4.png)
+4. At this point go ahead and switch back to the master branch by running 'git checkout master'. Make a change to the text.txt file and make another commit after staging the file.
 ![](resources/GB6.png)
+5. One of the key differences between git and other SCM tools is that it allows you to have an entire separate copy of the project on your local machine and to work with branches all without effecting the copy that others are working with. Unfortunately a somewhat common biproduct of this process when two people are working on a related part of a program is a merge conflict. By being on the branch that you want the changes merged into, run the 'git merge \<Other Branch>' command.
 ![](resources/GB7.png)
+6. As described above, git is unsure of how to handle multiple changes to the same line of a file. In order to 'help' the situation, git will put angle brackets and hyphens to separate the content it is unsure of.
 ![](resources/GB8.png)
+7. Once you have manually modified the file to look the way that you believe is fit, go ahead and stage the files and then commit again. Congratulations, you've just solved a merge conflict!
 ![](resources/GB9.png)
