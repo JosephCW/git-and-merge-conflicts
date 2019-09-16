@@ -18,8 +18,8 @@
 6. Right click the folder again and select "Switch/Checkout...". This time you from the drop down arrows choose Master. Once you have done that select "OK".
 ![](resources/TG8.png)
 7. Next you right click the folder and select "Merge". When the window opens make sure that you choose branch and "Branch1" is selected. Once you do that select "OK". This will have merged your "Branch1" with the "Master".
-![](resources/TG9.png)
 ![](resources/TG10.png)
+![](resources/TG9.png)
 8. You'll notice the txt file is red. Open it up and see the results. You have just created a merge conflict as you are trying to put two different things on the same line.
 ![](resources/TG11.png)
 9. You'll want to remove the head and branch lines so that your left with each item in a different line. When your done it should be simliar to the second image below.
