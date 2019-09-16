@@ -55,7 +55,6 @@
 11. In this example our entire hash is '259d003fcf8778ec3e14fc62423c99ef34cbeac3'. Thankfully git will let use just the first 7 digits in order to do a revert. The revert command can be run with 'git revert \<commit hash>' it will afterwards ask for a commit message to be associated with this reversion.
 ![Image13](resources/GB13.png)
 ![Image14](resources/GB14.png)
-
 12. You can also see this new commit in the log. Taking a look at the file you can also see that the line that was added is now gone.
 ![Image15](resources/GB15.png)
 ![Image16](resources/GB16.png)
