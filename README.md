@@ -49,7 +49,7 @@
 8. Once you have manually modified the file to look the way that you believe is fit, go ahead and stage the files and then commit again. Congratulations, you've just solved a merge conflict!
 ![](resources/GB9.png)
 9. Go ahead and make another change to the text file by adding another line of content to the end then commit.
-![Image11](resources/GB11.png)
+![Image11](resources/GB11.PNG)
 10. Unfortunately, as it turns out, we actually didn't need that last change. If this change hadn't been pushed to a public repo where someone else had already done a 'git pull', then it's possible for us to do a 'git rebase'. Rebasing is generally considered dangerous because it's akin to rewriting existing history. As such, we will instead cover the nondestructive method to undo a commit, 'git revert'. The first step in doing a git revert is to get the unique hash id of the commit that we are wanting to undo. One easy way to get this is by running 'git log'
 ![Image12](resources/GB12.png)
 11. In this example our entire hash is '259d003fcf8778ec3e14fc62423c99ef34cbeac3'. Thankfully git will let use just the first 7 digits in order to do a revert. The revert command can be run with 'git revert \<commit hash>' it will afterwards ask for a commit message to be associated with this reversion.
