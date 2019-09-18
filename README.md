@@ -2,7 +2,7 @@
 
 ## Tortoise Git Example
 
-1. Go to the demo repo and clone the repot onto your machine.
+1. Go to the demo repo and clone the repo onto your machine.
 ![](resources/TG1.png)
 ![](resources/TG2.png)
 2. Next you will create a branch. Right click on the folder the repos in and select "Create Branch". Name it Branch1 and then press ok.
