@@ -64,4 +64,4 @@
 ### Joseph Watts
 
 ![Joseph Watts](resources/pic-Watts.png)
-![Chase Smith](resources/smith.png =50x50)
+ <img src="resources/smith.jpg" alt="Chase Smith" style="width:50px;height:50px;"> 
