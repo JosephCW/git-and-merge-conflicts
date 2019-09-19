@@ -64,4 +64,5 @@
 ### Joseph Watts
 
 ![Joseph Watts](resources/pic-Watts.png)
- <img src="resources/smith.jpg" alt="Chase Smith" style="width:50px;height:50px;"> 
+![Connor Beshears](resources/connor-pic.jpeg)
+<img src="resources/smith.jpg" alt="Chase Smith" style="width:50px;height:50px;"/>
