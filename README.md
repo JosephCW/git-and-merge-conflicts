@@ -71,3 +71,4 @@
 <img src="resources/smith.png" width=200px height=200px/>
 
 ### Kevin Hart
+<img src="resources/hart.png" width=200px height=200px/>
