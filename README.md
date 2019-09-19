@@ -63,8 +63,11 @@
 
 ### Joseph Watts
 <img src="resources/pic-watts.png" width=200px height=200px/>
+
 ### Connor Beshears
-![Connor Beshears](resources/connor-pic.jpeg)
+<img src="resources/connor-pic.jpeg" width=200px height=200px/>
+
 ### Chase Smith
 <img src="resources/smith.png" width=200px height=200px/>
+
 ### Kevin Hart
