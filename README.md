@@ -63,6 +63,6 @@
 
 ### Joseph Watts
 
-![Joseph Watts](resources/pic-Watts.png)
+![Joseph Watts](resources/pic-watts.png)
 ![Connor Beshears](resources/connor-pic.jpeg)
 <img src="resources/smith.png" width=200px height=200px/>
