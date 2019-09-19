@@ -58,3 +58,9 @@
 12. You can also see this new commit in the log. Taking a look at the file you can also see that the line that was added is now gone.  
 ![Image15](resources/GB15.PNG)
 ![Image16](resources/GB16.PNG)
+
+## Credits
+
+### Joseph Watts
+
+![Joseph Watts](resources/pic-Watts.png)
