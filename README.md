@@ -65,4 +65,4 @@
 
 ![Joseph Watts](resources/pic-Watts.png)
 ![Connor Beshears](resources/connor-pic.jpeg)
-<img src="resources/smith.png" style="width:200px;"/>
+<img src="resources/smith.png" style="width:200px; height:200px"/>
