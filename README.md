@@ -62,7 +62,9 @@
 ## Credits
 
 ### Joseph Watts
-
-![Joseph Watts](resources/pic-watts.png)
+<img src="resources/pic-watts.png" width=200px height=200px/>
+### Connor Beshears
 ![Connor Beshears](resources/connor-pic.jpeg)
+### Chase Smith
 <img src="resources/smith.png" width=200px height=200px/>
+### Kevin Hart
