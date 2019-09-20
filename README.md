@@ -52,7 +52,7 @@
 ![Image11](resources/GB11.PNG)
 10. Unfortunately, as it turns out, we actually didn't need that last change. If this change hadn't been pushed to a public repo where someone else had already done a 'git pull', then it's possible for us to do a 'git rebase'. Rebasing is generally considered dangerous because it's akin to rewriting existing history. As such, we will instead cover the nondestructive method to undo a commit, 'git revert'. The first step in doing a git revert is to get the unique hash id of the commit that we are wanting to undo. One easy way to get this is by running 'git log'
 ![Image12](resources/GB12.PNG)
-11. In this example our entire hash is '259d003fcf8778ec3e14fc62423c99ef34cbeac3'. Thankfully git will let use just the first 7 digits in order to do a revert. The revert command can be run with 'git revert \<commit hash>' it will afterwards ask for a commit message to be associated with this reversion.
+11. In this example our entire hash is '259d003fcf8778ec3e14fc62423c99ef34cbeac3'. Thankfully git will let use just the first 7 digits in order to do a revert. The revert command can be run with 'git revert \<commit hash>' it will afterwards ask for a commit message to be associated with this reversion. It should also be noted that it is possible to revert an entire range of commits with one command by using 'git revert \<commit1>^..\<commit2>'.
 ![Image13](resources/GB13.PNG)
 ![Image14](resources/GB14.PNG)
 12. You can also see this new commit in the log. Taking a look at the file you can also see that the line that was added is now gone.  
