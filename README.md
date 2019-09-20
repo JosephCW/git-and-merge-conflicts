@@ -59,6 +59,14 @@
 ![Image15](resources/GB15.PNG)
 ![Image16](resources/GB16.PNG)
 
+## Extra Resources
+
+It can take a lot of time to learn how to take advantage of some of the more complicated features found in git. Below is a small list of resources which might be found valuable.
+
+- [Git Workflows](https://buddy.works/blog/5-types-of-git-workflows#targetText=The%20most%20popular%20workflow%20among,and%20use%20in%20their%20work.)
+- [Atlassian Guide](https://www.atlassian.com/git/tutorials)
+- [Version Control wth Git](http://shop.oreilly.com/product/0636920022862.do)
+
 ## Credits
 
 ### Joseph Watts
